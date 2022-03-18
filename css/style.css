@@ -1,5 +1,5 @@
 /* Font Family */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,500;0,600;0,700;1,600&display=swap");
 /* Font Family */
 
 /* Universal Css Start Here */
@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 p {
   color: #222a41;
@@ -22,21 +22,21 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 h2 {
-  font-size: 35px;
+  font-size: 51px;
   font-weight: 600;
-  line-height: 45px;
+  line-height: 61px;
 }
 h3 {
-  font-size: 22px;
+  font-size: 35px;
   font-weight: 400;
-  line-height: 32px;
+  line-height: 45px;
 }
 h4 {
-  font-size: 19px;
-  line-height: 25px;
+  font-size: 25px;
+  line-height: 35px;
   font-weight: 400;
 }
 h5 {

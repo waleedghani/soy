@@ -1,5 +1,9 @@
 <!-- Header Start Here -->
+<header>
+    <div class="container-fluid">
 
+    </div>
+</header>
 <!-- Header End Here -->
 
 <!-- Go To Top Button -->
