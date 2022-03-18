@@ -6,13 +6,13 @@ $(window).on("load", function () {
 // Pre Loader Js
 
 // Mobile Header Js
-// $("header .canvas_btn").click(function () {
-//   $(".mobile_header").addClass("show");
-// });
+$("header .canvas_btn").click(function () {
+  $(".mobile_header").addClass("show");
+});
 
-// $(".mobile_header .cancel").click(function () {
-//   $(".mobile_header").removeClass("show");
-// });
+$(".mobile_header .cancel").click(function () {
+  $(".mobile_header").removeClass("show");
+});
 // Mobile Header Js
 
 // Header Fixed Js
