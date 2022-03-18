@@ -1,0 +1,116 @@
+/* Font Family */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+/* Font Family */
+
+/* Universal Css Start Here */
+:root {
+  --first-color: #31007b;
+  --second-color: #e0322f;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+p {
+  color: #222a41;
+  font-size: 16px;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+}
+h2 {
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 45px;
+}
+h3 {
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 32px;
+}
+h4 {
+  font-size: 19px;
+  line-height: 25px;
+  font-weight: 400;
+}
+h5 {
+  font-size: 13px;
+  line-height: 23px;
+}
+a.btn {
+  background-color: #aec934;
+  padding: 10px 30px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.6s;
+  border-radius: 5px;
+}
+figure {
+  margin-bottom: 0;
+}
+
+/* Inner Pages Banner */
+/* .universal_banner {
+  padding: 45px 0;
+  background: #979797;
+}
+.universal_banner .contentDv {
+  text-align: center;
+}
+.universal_banner .contentDv h2.title {
+  font-size: 32px;
+  color: #ffffff;
+}
+.universal_banner .contentDv p {
+  color: #fff;
+} */
+/* Inner Pages Banner */
+
+/* Universal Css End Here */
+
+/* Prelaoder */
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  overflow: hidden;
+  background: #aec934;
+}
+#preloader:before {
+  content: "";
+  position: fixed;
+  top: calc(50% - 30px);
+  left: calc(50% - 30px);
+  border: 6px solid #f2f2f2;
+  border-top: 6px solid #708510;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  -webkit-animation: animate-preloader 1s linear infinite;
+  animation: animate-preloader 1s linear infinite;
+}
+@-webkit-keyframes animate-preloader {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes animate-preloader {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
