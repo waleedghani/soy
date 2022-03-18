@@ -277,7 +277,20 @@ header .right_menus a.btn {
   }
 }
 /* Header Css End here */
-
+/* inner pages banner css starts here */
+.page-banner {
+  background-image: url("../img/page-banner-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px 0px;
+}
+section.page-banner h1 {
+  font-size: 51px;
+  color: #fff;
+  font-family: "Work Sans";
+  font-weight: 700;
+}
+/* inner pages banner css ends here */
 /* Footer Css Start Here */
 footer {
   background: #31007b;
