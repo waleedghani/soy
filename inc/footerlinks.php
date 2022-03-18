@@ -25,7 +25,7 @@ $('.reviews_slider').slick({
     infinite: true,
     arrows: false,
     autoplay: true,
-    autoplaySpeed: 1500,
+    autoplaySpeed: 3000,
     speed: 300,
     slidesToShow: 5,
     slidesToScroll: 1,
@@ -35,14 +35,14 @@ $('.reviews_slider').slick({
                 slidesToShow: 3,
                 slidesToScroll: 3,
                 infinite: true,
-                dots: true
+                dots: false
             }
         },
         {
             breakpoint: 600,
             settings: {
-                slidesToShow: 2,
-                slidesToScroll: 2
+                slidesToShow: 1,
+                slidesToScroll: 1
             }
         },
         {
@@ -65,7 +65,7 @@ $('.reviews_slider_two').slick({
     infinite: true,
     arrows: false,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 3500,
     speed: 300,
     slidesToShow: 6,
     slidesToScroll: 1,
@@ -75,14 +75,14 @@ $('.reviews_slider_two').slick({
                 slidesToShow: 3,
                 slidesToScroll: 3,
                 infinite: true,
-                dots: true
+                dots: false
             }
         },
         {
             breakpoint: 600,
             settings: {
-                slidesToShow: 2,
-                slidesToScroll: 2
+                slidesToShow: 1,
+                slidesToScroll: 1
             }
         },
         {
@@ -100,10 +100,12 @@ $('.reviews_slider_two').slick({
 // Reviews Slider Two Js
 
 // Download Slider Js
-$('.join_sec .img_box').slick({
+$('.download_sec .img_box').slick({
     centerMode: true,
     arrows: false,
     dots: true,
+    autoplay: true,
+    autoplaySpeed: 3000,
     centerPadding: '0px',
     slidesToShow: 3,
     responsive: [{
@@ -111,7 +113,7 @@ $('.join_sec .img_box').slick({
             settings: {
                 arrows: false,
                 centerMode: true,
-                centerPadding: '40px',
+                centerPadding: '0px',
                 slidesToShow: 3
             }
         },
@@ -120,7 +122,7 @@ $('.join_sec .img_box').slick({
             settings: {
                 arrows: false,
                 centerMode: true,
-                centerPadding: '40px',
+                centerPadding: '0px',
                 slidesToShow: 1
             }
         }

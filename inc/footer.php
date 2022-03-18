@@ -24,7 +24,7 @@
                             <ul class="footer-menus">
                                 <li><a href="#">Forum</a></li>
                                 <li><a href="#">Help and Support</a></li>
-                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="Contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -34,8 +34,8 @@
                                 <h5>Quick links</h5>
                             </div>
                             <ul class="footer-menus">
-                                <li><a href="#">Terms and Conditions</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="terms.php">Terms and Conditions</a></li>
+                                <li><a href="privacy.php">Privacy Policy</a></li>
                                 <li><a href="#">About</a></li>
                                 <li><a href="#">Blogs</a></li>
                             </ul>

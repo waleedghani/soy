@@ -13,7 +13,7 @@
         <div class="container">
             <div class="banner_content">
                 <div class="row">
-                    <div class="col-md-8">
+                    <div class="col-lg-8">
                         <h2 class="title">No #1 Platform Where<br /> Buyer & Seller Trust Eachother</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore
@@ -43,7 +43,7 @@
                             </form>
                         </div>
                     </div>
-                    <div class="col-md-4"></div>
+                    <div class="col-lg-4"></div>
                 </div>
             </div>
         </div>
@@ -55,7 +55,7 @@
 <section class="column_box">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-6">
+            <div class="col-lg-6">
                 <div class="col_box box1">
                     <div class="img_box">
                         <figure><img src="img/col1.png" class="img-fluid"></figure>
@@ -68,7 +68,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-6">
                 <div class="col_box box2">
                     <div class="img_box">
                         <figure><img src="img/col2.png" class="img-fluid"></figure>
@@ -251,7 +251,7 @@
 <section class="report_sec">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-7">
+            <div class="col-lg-7">
                 <div class="contentBox">
                     <h3 class="title">Report & Review What Scams<br />
                         Are Trending Near You</h3>
@@ -269,7 +269,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-5">
+            <div class="col-lg-5">
                 <div class="img_box">
                     <figure><img src="img/report.png" class="img-fluid"></figure>
                 </div>
@@ -634,12 +634,12 @@
 <section class="join_sec">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-6">
+            <div class="col-lg-6">
                 <div class="img_box">
                     <figure><img src="img/join.png" class="img-fluid"></figure>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-6">
                 <div class="contentBox">
                     <h3 class="title">Join as a law firm to contribute<br />
                         With SOY big Co</h3>
@@ -664,10 +664,10 @@
 <!-- Join Sec End Here -->
 
 <!-- Download Sec Start Here -->
-<section class="join_sec">
+<section class="download_sec">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-6">
+            <div class="col-lg-6">
                 <div class="contentBox">
                     <h3 class="title">Now You Can Download Our
                         Application to get the most out
@@ -700,7 +700,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-6">
                 <div class="img_box">
                     <figure><img src="img/screen2.png" class="img-fluid"></figure>
                     <figure><img src="img/screen1.png" class="img-fluid"></figure>
@@ -714,6 +714,77 @@
     </div>
 </section>
 <!-- Download Sec End Here -->
+
+<!-- Blog Sec Start Here -->
+<section class="blog_sec">
+    <div class="container">
+        <div class="heading_wrapper">
+            <h3>Read Our Latest blogs & News</h3>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="blogs">
+                    <div class="img_box">
+                        <figure><img src="img/blog1.png" alt="" class="img-fluid"></figure>
+                    </div>
+                    <div class="blog_content">
+                        <p>Lorem ipsum dolor sit ametaliqua, consec
+                            adipiscing sapien faucibus<br /><br />
+                            Interdum enim sapien, sagittis urna, aliquet
+                            tincidunt urna elit orci. Nec, sit purus vel,</p>
+                        <a href="#" class="lnk">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="blogs">
+                    <div class="img_box">
+                        <figure><img src="img/blog2.png" alt="" class="img-fluid"></figure>
+                    </div>
+                    <div class="blog_content">
+                        <p>Lorem ipsum dolor sit ametaliqua, consec
+                            adipiscing sapien faucibus<br /><br />
+                            Interdum enim sapien, sagittis urna, aliquet
+                            tincidunt urna elit orci. Nec, sit purus vel,</p>
+                        <a href="#" class="lnk">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="blogs">
+                    <div class="img_box">
+                        <figure><img src="img/blog1.png" alt="" class="img-fluid"></figure>
+                    </div>
+                    <div class="blog_content">
+                        <p>Lorem ipsum dolor sit ametaliqua, consec
+                            adipiscing sapien faucibus<br /><br />
+                            Interdum enim sapien, sagittis urna, aliquet
+                            tincidunt urna elit orci. Nec, sit purus vel,</p>
+                        <a href="#" class="lnk">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="blogs">
+                    <div class="img_box">
+                        <figure><img src="img/blog3.png" alt="" class="img-fluid"></figure>
+                    </div>
+                    <div class="blog_content">
+                        <p>Lorem ipsum dolor sit ametaliqua, consec
+                            adipiscing sapien faucibus<br /><br />
+                            Interdum enim sapien, sagittis urna, aliquet
+                            tincidunt urna elit orci. Nec, sit purus vel,</p>
+                        <a href="#" class="lnk">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="button-group">
+            <a href="#" class="btn">View All</a>
+        </div>
+    </div>
+</section>
+<!-- Blog Sec End Here -->
 
 <!-- Body Content End Here -->
 

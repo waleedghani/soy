@@ -1,0 +1,15 @@
+.privacy-content {
+    padding: 100px 0px;
+}
+.page-banner{
+    background-image: url('../img/page-banner-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+}
+section.page-banner h1 {
+    font-size: 51px;
+    color: #fff;
+    font-family: 'Work Sans';
+    font-weight: 700;
+}
