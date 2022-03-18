@@ -1,7 +1,30 @@
 <!-- Header Start Here -->
 <header>
     <div class="container-fluid">
-
+        <div class="row align-items-center">
+            <div class="col-lg-3 col-4">
+                <div class="logoDv">
+                    <figure><img src="img/logo.png" alt="" class="img-fluid"></figure>
+                </div>
+            </div>
+            <div class="col-lg-4 col-1">
+                <div class="navbar_menus">
+                    <ul class="menus">
+                        <li class="menu-items"><a href="#" class="menu-links">Home</a></li>
+                        <li class="menu-items"><a href="#" class="menu-links">Forum</a></li>
+                        <li class="menu-items"><a href="#" class="menu-links">Newsfeed</a></li>
+                        <li class="menu-items"><a href="#" class="menu-links">FAQs</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-5 col-7">
+                <div class="right_menus">
+                    <ul class="action_links">
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
 </header>
 <!-- Header End Here -->
