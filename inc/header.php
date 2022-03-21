@@ -56,13 +56,12 @@
         </svg>
     </div>
     <ul class="mobile_menus">
-        <li class="menu_items"><a class="menu_links active_menu" href="feature.php">Features</a></li>
-        <li class="menu_items"><a class="menu_links" href="how-it-work.php">How it works</a></li>
-        <li class="menu_items"><a class="menu_links" href="pricing.php">Pricing</a></li>
-        <li class="menu_items"><a class="menu_links" href="about.php">About</a></li>
-        <li class="menu_items"><a class="menu_links" href="blog.php">Blog</a></li>
-        <li class="menu_items"><a class="menu_links" href="#">Login</a></li>
-        <li class="menu_items"><a class="menu_links" href="#">Register</a></li>
+        <li class="menu_items"><a class="menu_links active_menu" href="#">Home</a></li>
+        <li class="menu_items"><a class="menu_links" href="#">Forum</a></li>
+        <li class="menu_items"><a class="menu_links" href="#">Newsfeed</a></li>
+        <li class="menu_items"><a class="menu_links" href="#">FAQs</a></li>
+        <li class="menu_items"><a class="menu_links" href="#">Join as a Lawfirm</a></li>
+        <li class="menu_items"><a class="menu_links" href="#">Join as a Company</a></li>
     </ul>
 </div>
 <!-- Mobile Header End Here -->

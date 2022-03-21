@@ -1,0 +1,89 @@
+.signup{
+    background-image: url('../img/logjn-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.signup .sign-up-box-wrapper {
+    background: #fff;
+    padding: 27px;
+    text-align: center;
+    box-shadow: 0px 0px 10px 4px #a4a9a4;
+}
+.signup .sign-up-heading-wrapper {
+    margin-bottom: 28px;
+}
+.signup .sign-up-heading-wrapper h4 {
+    color: var(--first-color);
+    font-weight: 600;
+}
+.sign-up-box-wrapper input.form-control {
+    border-radius: 0px;
+    border: 1px solid #707070;
+    font-family: 'Work sans';
+    font-size: 17px;
+}
+.sign-up-box-wrapper input.form-control {
+    border-radius: 0px;
+    border: 1px solid #707070;
+    font-family: 'Work sans';
+    font-size: 17px;
+}
+.signup button.form-control.btn {
+    font-family: 'Work Sans';
+    color: #fff;
+    background: var(--first-color);
+    border-radius: 0px;
+    border: 1px solid #fff;
+    transition: all 0.3s ease-in-out;
+}
+.signup button.form-control.btn:hover {
+    outline: 2px solid #31007b;
+}
+.signup .sign-up-form-wrapper .form-check-input {
+    margin-left: 2px;
+}
+.signup .sign-up-form-wrapper a {
+    font-family: 'Work Sans';
+    color: #ABABAB;
+    font-weight: 400;
+}
+.sign-up-form-wrapper label.form-check-label {
+    color: #ABABAB;
+}
+input[type=checkbox] {
+    position: relative;
+      cursor: pointer;
+}
+input[type=checkbox]:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 0;
+    left: 0;
+    border: 2px solid var(--first-color);
+    border-radius: 0px;
+    background-color: white;
+}
+input[type=checkbox]:checked:after {
+    content: "";
+    display: block;
+    width: 5px;
+    height: 10px;
+    border: solid var(--first-color);
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    top: 2px;
+    left: 6px;
+
+}
+.signup .img-uplo-wrapper input[type="file"] {
+    margin-right: -99px;
+}   

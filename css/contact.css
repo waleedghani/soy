@@ -1,0 +1,39 @@
+.contact-form {
+    padding: 100px 0px;
+}
+.contact-info {
+    padding: 82px 0px;
+}
+.contact-info .contact-info-wrapper a {
+    color: #31007B;
+    font-weight: 700;
+}
+section.contact-info p {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+}
+.contact-info .contact-content-wrapper {
+    margin-top: 40px;
+}
+.contact-form .contact-form-wrapper {
+    background: #fff;
+    box-shadow: 0px 0px 8px 2px #7e7e7e;
+    padding: 24px 32px;
+}
+.contact-form  .contact-form-wrapper button.form-btn {
+    background: var(--first-color);
+    border-radius: 0px;
+    color: #fff;
+    font-family: 'Work Sans';
+    font-size: 17px;
+    border: 1px solid #fff;
+    transition: all 0.4s ease-in-out;
+}
+.contact-form .contact-form-wrapper button.form-btn:hover {
+    outline: 2px solid var(--first-color);
+}
+section.contact-form .form-control {
+    border-radius: 0px;
+    font-family: 'Work Sans';
+}
